@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Python Full Stack Development**
 - 💻 I work with **HTML, CSS, JavaScript**
 - 🎯 Interested in **Frontend & Web Development**
-- 📂 All of my projects are available on **GitHub**
+- 📂 All of my projects are available on **GitHub*
 - 📫 How to reach me: **kanchanakailas04@gmail.com**
 
 ---
