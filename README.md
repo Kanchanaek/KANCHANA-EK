@@ -26,7 +26,7 @@
 
 ### 🌐 Connect with me:
 - GitHub: https:https://github.com/Kanchanaek
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kanchana-ek-b00018286)
+- LinkedIn:https://www.linkedin.com/in/kanchana-ek-b00018286
 - Mobile : 9188540490  
 
 ---
