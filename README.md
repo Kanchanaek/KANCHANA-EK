@@ -8,7 +8,7 @@
 - 💻 I work with **HTML, CSS, JavaScript**
 - 🎯 Interested in **Frontend & Web Development**
 - 📂 All of my projects are available on **GitHub**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **kanchanakailas04@gmail.com**
 
 ---
 
@@ -26,7 +26,8 @@
 
 ### 🌐 Connect with me:
 - GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- LinkedIn: https://linkedin.com/in/your-profile
+- Mobile : 9188540490  
 
 ---
 
